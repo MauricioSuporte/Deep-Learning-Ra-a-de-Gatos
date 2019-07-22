@@ -64,8 +64,9 @@ revestimento crespo mais recentemente estabelecida, originária de uma mutação
 
 
 ¤ Dados
-Para a coleta de dados para o treinamento da rede neural, foram selecionadas aproximadamente 100 imagens para cada neurônio na camada 
-de saída.
+Para a coleta de dados para o treinamento da rede neural, foram selecionadas aproximadamente 100 imagens para cada um dos 10 neurônios 
+na camada de saída. Cada neurônio na cama de saída representa uma espécie de gato diferente, das quais são: Siames, Persa, Maine Coon, 
+Angora, Sphynx, Ragdoll, Ashera, American Shorthair, Exotico, SRD e outros.
 
 ¤ Tecnologias
 O script na linguagem python do link no github github.com/hardikvasa/google-images-download foi utilizado para o download dos dados 
