@@ -64,10 +64,12 @@ revestimento crespo mais recentemente estabelecida, originária de uma mutação
 
 
 ¤ Dados
-
+Para a coleta de dados para o treinamento da rede neural, foram selecionadas aproximadamente 100 imagens para cada neurônio na camada 
+de saída.
 
 ¤ Tecnologias
-
+O script na linguagem python do link no github github.com/hardikvasa/google-images-download foi utilizado para o download dos dados 
+necessários para o treinamento e teste da rede neural.
 
 ¤ Setup do experimento
 
